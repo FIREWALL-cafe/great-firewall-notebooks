@@ -1,12 +1,16 @@
-## Setup
+These notebooks are prototypes, research, and sanity checks for the [Firewall Cafe project](https://firewallcafe.com/). 
 
-If you want to run these notebooks, you'll need to set up some credentials with [Google Cloud Translation](https://cloud.google.com/translate/docs/quickstarts) and you'll need to download the appropriate [Chrome webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) for your version of Chrome.
+## Setup
 
 Install these packages at a minimum:
  - Jupyter Notebooks (or the Anaconda stack)
+
+For some of them, you'll need:
  - Selenium
  - Google Cloud Translate
  - ipyplot
+
+If you want to run those notebooks, you'll need to set up some credentials with [Google Cloud Translation](https://cloud.google.com/translate/docs/quickstarts) and you'll need to download the appropriate [Chrome webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) for your version of Chrome.
 
 ## Prototyping a scraper
 
