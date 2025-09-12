@@ -1,3 +1,21 @@
+# Great Firewall Notebooks
+
+> Research notebooks exploring automated search analysis
+
+![Status](https://img.shields.io/badge/status-archived-red.svg)
+![Language](https://img.shields.io/badge/language-Jupyter%20Notebook-orange.svg)
+![Last Updated](https://img.shields.io/badge/last%20updated-May%202021-orange.svg)
+
+## 🗄️ Archive Notice
+
+**This repository is archived and read-only.** It contains Jupyter notebooks from 2021 research into automated search scraping and analysis methods. These notebooks served as early experiments that informed the development of the current Firewall Cafe platform.
+
+For the current active project, see **[firewall-client-server](https://github.com/FIREWALL-cafe/firewall-client-server)**.
+
+---
+
+## Original Documentation
+
 These notebooks are prototypes, research, and sanity checks for the [Firewall Cafe project](https://firewallcafe.com/). 
 
 ## Setup
@@ -47,3 +65,20 @@ If you want to run those notebooks, you'll need to set up some credentials with 
 [13_clean-up-searches-API](https://nbviewer.jupyter.org/github/FIREWALL-cafe/great-firewall-notebooks/blob/master/13_clean-up-searches-API.ipynb). Delete searches that incorrectly stored way too many images.
 
 [14_wordpress-and-db-check](https://nbviewer.jupyter.org/github/FIREWALL-cafe/great-firewall-notebooks/blob/master/14_wordpress-and-db-check.ipynb). Take a closer look at Wordpress API vs new API to see if there are discrepencies in image results (they all seem to match).
+
+---
+
+## 🔗 Current Development
+
+Active development has moved to:
+- **[firewall-client-server](https://github.com/FIREWALL-cafe/firewall-client-server)** - Main platform with production features
+- **[firewall-web-app](https://github.com/FIREWALL-cafe/firewall-web-app)** - Web deployment
+
+## 📞 Contact
+
+- **Website**: [firewallcafe.com](https://firewallcafe.com)
+- **Email**: info@firewallcafe.com
+
+---
+
+*Part of the Firewall Cafe research archive*
